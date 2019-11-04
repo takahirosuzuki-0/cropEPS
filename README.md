@@ -11,3 +11,5 @@ Windows環境だとパワーポイントで作ったEPSファイルにBounding B
 ./cropEPS.sh all:	crop all eps files
 ./cropEPS.sh [name]:	crop [name].eps
 ```
+詳細は以下のページにもあります。
+[http://suzukitakahiro.sakura.ne.jp/activity/](http://suzukitakahiro.sakura.ne.jp/activity/)
